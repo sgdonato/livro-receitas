@@ -3,7 +3,7 @@
 Olá, bem vindo ao meu livro de receitas
 
 - Bolo
-- Cenoura
+- Caramelo
 - Pavê
 - Torta
 - Salada
